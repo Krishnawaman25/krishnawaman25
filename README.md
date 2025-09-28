@@ -17,6 +17,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnawaman25&label=Profile%20Views&color=0e75b6&style=flat" alt="krishnawaman25" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnawaman25&label=Profile%20Views&color=0e75b6&style=flat" alt="krishnawaman25" /> </p>
+
 ## 💻 project-on-hospital-management-system-in-c++
 
 This C++ Hospital Management System project aims to streamline various administrative and operational tasks within a hospital environment.
