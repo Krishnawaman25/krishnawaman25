@@ -13,6 +13,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Developer;Problem%20Solver;Lifelong%20Learner&center=true&size=20)]()
 
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=krishnawaman25&theme=dark)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnawaman25&label=Profile%20Views&color=0e75b6&style=flat" alt="krishnawaman25" /> </p>
+
 ## 💻 project-on-hospital-management-system-in-c++
 
 This C++ Hospital Management System project aims to streamline various administrative and operational tasks within a hospital environment.
